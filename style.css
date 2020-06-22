@@ -1,0 +1,19 @@
+b {
+font-family: din-2014, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size:35px;
+color:#F2F2E9
+}
+
+b:hover {
+color:#E7C9C9
+}
+
+p {
+font-family: din-2014, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:35px
+}
+
